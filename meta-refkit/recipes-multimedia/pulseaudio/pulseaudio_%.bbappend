@@ -1,0 +1,1 @@
+RDEPENDS_pulseaudio-module-console-kit_remove = "consolekit"
